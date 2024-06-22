@@ -1,7 +1,7 @@
 # Desafio NFT Card Component
 Desafio feito do Frontend Mentor 💻🚀
 
-[<img src="./gif-x-devs.gif" alt="Gif do desafio NFT Card Component">](https://augusto-brunelli.github.io/desafio-nft-card/)
+[<img src="./gif-nft-card.gif" alt="Gif do desafio NFT Card Component">](https://augusto-brunelli.github.io/desafio-nft-card/)
 
 ## Linguagens utilizadas:
 - HTML5
